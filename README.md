@@ -2,6 +2,7 @@
 
 
 Use scrapy to craw udn news.
+(if you want to try the code here, please install python3, scrapy and pyquery first.)
 
 
 please download all things and open your commend line:
